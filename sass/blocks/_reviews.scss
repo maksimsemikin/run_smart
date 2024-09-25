@@ -1,0 +1,32 @@
+.reviews {
+    padding-bottom: 48px;
+    &__card {
+        margin-top: 60px;
+        display: flex;
+        align-items: flex-start;
+        img {
+            width: 169px;
+            height: 169px;
+        }
+    }
+    &__text {
+        padding-left: 61px;
+    }
+    &__name {
+        color: #0D0D0D;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    &__subtitle {
+        color: #646464;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    &__descr {
+        color: #0D0D0D;
+        margin-top: 10px;
+        font-size: 16px;
+        font-weight: 300;
+    }
+    
+}
