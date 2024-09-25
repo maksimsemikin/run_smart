@@ -9,6 +9,7 @@
 # production
 /build
 /src/sass
+/src/mailer
 
 # misc
 .DS_Store
